@@ -1,0 +1,58 @@
+* {
+    margin: 5px;
+    padding: 7px;
+}
+
+form {
+    background-color: black
+}
+
+.top {
+    background:linear-gradient(burlywood,brown);
+    color: rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+    align-items: center;
+    align-content: center;
+    text-shadow: 1.5px  1.2px whitesmoke;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.information {
+    background:linear-gradient(rgb(0, 34, 255),rgb(255, 255, 255));
+    color: aqua;
+    text-shadow: 1.5px  1.2px rgb(0, 0, 0);
+    border-radius: 10px 10px 10px 10px;
+
+
+}
+
+.guardians {
+    background:linear-gradient(brown,rgb(255, 255, 255));
+    color: burlywood;
+    text-shadow: 1.5px  1.2px rgb(0, 0, 0);
+    border-radius: 10px 10px 10px 10px;
+
+
+}
+
+.education {
+    background:linear-gradient(darkgreen,rgb(255, 255, 255));
+    color: chartreuse;
+    text-shadow: 1.5px  1.2px rgb(0, 0, 0);
+    border-radius: 10px 10px 10px 10px;
+
+
+}
+
+table {
+    color: chartreuse;
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+.imp {
+    background-color: slategray;
+    color: snow;
+    border-radius: 10px 10px 10px 10px;
+
+}
